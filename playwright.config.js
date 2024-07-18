@@ -16,7 +16,7 @@ module.exports = defineConfig({
   fullyParallel: false,
   
   /* Retry on failing */
-  retries:2,
+ //retries:2,
   
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
